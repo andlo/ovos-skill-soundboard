@@ -1,0 +1,21 @@
+{
+  "skill_id": "ovos-skill-soundboard.andlo",
+  "source": "https://github.com/andlo/ovos-skill-soundboard",
+  "package_name": "ovos-skill-soundboard",
+  "pip_spec": "ovos-skill-soundboard",
+  "license": "GPL-3.0-or-later",
+  "author": "andlo",
+  "name": "SoundBoard",
+  "description": "Et lydeffekt-braet til OVOS - 'spil en trommehvirvel', 'spil klapsalve', 'spil et luft-horn'. Samme bundlede-CC0-sample-moenster som ovos-skill-sound-like, men for standard lydeffekter fremfor dyre-/objektlyde. Kunne plausibelt dele infrastruktur med ovos-skill-sound-like fremfor at vaere helt separat - vaerd at genbesoege naar begge findes.",
+  "examples": [
+    "spil en trommehvirvel",
+    "spil klapsalve",
+    "spil et luft-horn"
+  ],
+  "tags": [
+    "sound effects",
+    "fun",
+    "soundboard"
+  ],
+  "icon": "https://raw.githubusercontent.com/andlo/ovos-skill-soundboard/main/icon.png"
+}
